@@ -1,0 +1,5 @@
+D:\github\Lab08-CSharp-Class-Part-I\Lab08_Ex02\obj\Debug\net8.0\Lab08_Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\Lab08-CSharp-Class-Part-I\Lab08_Ex02\obj\Debug\net8.0\Lab08_Ex02.AssemblyInfoInputs.cache
+D:\github\Lab08-CSharp-Class-Part-I\Lab08_Ex02\obj\Debug\net8.0\Lab08_Ex02.AssemblyInfo.cs
+D:\github\Lab08-CSharp-Class-Part-I\Lab08_Ex02\obj\Debug\net8.0\Lab08_Ex02.csproj.CoreCompileInputs.cache
+D:\github\Lab08-CSharp-Class-Part-I\Lab08_Ex02\obj\Debug\net8.0\Lab08_Ex02.sourcelink.json
